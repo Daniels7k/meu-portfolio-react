@@ -1,0 +1,62 @@
+.meusProjetos-container{
+    display: flex;
+    flex-direction: column;
+    margin-top: 40px;
+}
+
+.projetos-box{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+.projeto{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    height: 500px;
+    background-color: #09061f;
+    color: white;
+    border-radius: 20px;
+
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.meusprojetos-h1{
+    text-align: center;
+    font-size: 30px;
+}
+.projeto h1{
+    margin: 0px;
+    padding: 0px;
+    margin-bottom: 20px;
+}
+
+.projeto-img{
+    border: 3px solid #6ca1c5;
+    border-radius: 20px;
+    width: 400px;
+    height: 300px;
+}
+
+.projeto-buttons{
+    margin-top: 20px;
+    width: 70%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.projeto-buttons button{
+    color: white;
+    border: 3px solid #ac11e9;
+    background-color: transparent;
+    width: 150px;
+    height: 50px;
+}
+
+.meusProjetos-desc{
+    margin-top: 15px;
+    font-family: 'Poppins', sans-serif;
+}

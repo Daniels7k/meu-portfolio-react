@@ -1,0 +1,13 @@
+
+.container-foto{
+    margin-top: 100px;
+    margin-bottom: 120px;
+    display: flex;
+    justify-content: center;
+}
+
+.img{
+    width: 300px;
+    border: 3px solid #6ca1c5;
+    border-radius: 200px;
+}
