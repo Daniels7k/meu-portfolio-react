@@ -5,4 +5,4 @@
 ## 💻 Projeto
 Meu portfolio desenvolvido em react, utilizando componentização.
 
-### Acesse aqui: 
+### Acesse aqui: https://daniels7k.github.io/meu-portfolio-react/
